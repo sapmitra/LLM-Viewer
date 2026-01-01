@@ -12,6 +12,9 @@ avaliable_model_ids_sources = {
     "facebook/opt-6.7b": {"source": "huggingface"},
     "facebook/opt-30b": {"source": "huggingface"},
     "facebook/opt-66b": {"source": "huggingface"},
+    "Qwen/Qwen2.5-0.5B-Instruct": {"source": "huggingface"},
+    "Qwen/Qwen2.5-1.5B-Instruct": {"source": "huggingface"},
+    "Qwen/Qwen2.5-7B-Instruct": {"source": "huggingface"},
     # "DiT-XL/2": {"source": "DiT"},
     # "DiT-XL/4": {"source": "DiT"},
 }
